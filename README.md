@@ -20,16 +20,25 @@
 ### 2.-MARCO TEORICO:
 
 
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Marco%20Teorico/MAPA.png)
+
+
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Marco%20Teorico/Marco%20Teorico.png)
+
 
 
 ### 3.-DIAGRAMAS:
 
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Diagramas/Diagrama%201.png)
 
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Diagramas/Diagrama%202.png)
+
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Diagramas/Diagrama%203.png)
 
 
 ### 4.-LISTA DE COMPONENTES:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Tablas/Componentes%201.png)
 
 ### 5.-EXPLICACION:
  
@@ -54,6 +63,7 @@
 
 #### 5.1.-Analisis de los resultados:
 
+![](https://github.com/JonathanGuaman/Laboratorio-9/blob/main/Tablas/Tabla%20de%20valores.png)
 
 Figura 5.1.1
 
